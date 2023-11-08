@@ -1,0 +1,77 @@
+/*!
+ *  Font Awesome 4.1.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("http://silverstormwater.000webhostapp.com/fonts/fontawesome-webfont.eot?v=4.1.0");
+  src: url("http://silverstormwater.000webhostapp.com/fonts/fontawesome-webfont.eot#iefix&v=4.1.0") format('embedded-opentype'), url("http://silverstormwater.000webhostapp.com/fonts/fontawesome-webfont.woff?v=4.1.0") format('woff'), url("http://silverstormwater.000webhostapp.com/fonts/fontawesome-webfont.ttf?v=4.1.0") format('truetype'), url("http://silverstormwater.000webhostapp.com/fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular") format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+.fa {
+  display: inline-block;
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* makes the font 33% larger relative to the icon container */
+@-moz-keyframes spin {
+  0% {
+    -moz-transform: rotate(0deg);
+  }
+  100% {
+    -moz-transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+  }
+}
+@-o-keyframes spin {
+  0% {
+    -o-transform: rotate(0deg);
+  }
+  100% {
+    -o-transform: rotate(359deg);
+  }
+}
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+/* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
+   readers do not read off random characters that represent icons */
+.fa-heart:before {
+  content: "\f004";
+}
+.fa-user:before {
+  content: "\f007";
+}
+.fa-pencil:before {
+  content: "\f040";
+}
+.fa-twitter:before {
+  content: "\f099";
+}
+.fa-facebook:before {
+  content: "\f09a";
+}
+.fa-linkedin:before {
+  content: "\f0e1";
+}

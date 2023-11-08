@@ -1,0 +1,1114 @@
+.fa-lg
+.fa-2x
+.fa-3x
+.fa-4x
+.fa-5x
+.fa-fw
+.fa-ul
+.fa-ul > li
+.fa-li
+.fa-li.fa-lg
+.fa-border
+.pull-right
+.pull-left
+.fa.pull-left
+.fa.pull-right
+.fa-spin
+.fa-rotate-90
+.fa-rotate-180
+.fa-rotate-270
+.fa-flip-horizontal
+.fa-flip-vertical
+.fa-stack
+.fa-stack-1x, .fa-stack-2x
+.fa-stack-1x
+.fa-stack-2x
+.fa-inverse
+body.boxed
+body.boxed .sticky-menu.scrolling
+.container-audio
+audio
+audio::-webkit-media-controls-enclosure, video::-webkit-media-controls-enclosure
+audio::-webkit-media-controls-panel, video::-webkit-media-controls-panel
+h2 .specification
+h5
+h6
+sup
+p + hr
+hr.corect-margin
+.twitter-1 .divider-mini
+hr + hr
+.margin-top-none
+.padding-top-none
+.margin-l-70
+p.paragraph-border::first-letter, p.paragraph-background::first-letter
+p.paragraph-border::first-letter
+p.paragraph-background::first-letter
+p.paragraph-color::first-letter
+ins, ins.color
+ins.color
+ol
+ol li
+ol li span
+.line-h-10
+dl
+dt, dd
+dt
+dd
+blockquote
+q
+q b
+.quotes-carousel q
+.widget-tag
+.widget-tag a[rel="tag"]
+.border-img
+.img-float-left
+.img-float-right
+.block-overflow
+select
+.border
+.main-page h4
+html.t-pattern-1
+html.t-pattern-2
+html.t-pattern-3
+html.t-pattern-4
+html.t-pattern-5
+html.t-pattern-6
+html.t-pattern-7
+html.t-pattern-8
+.padding-bottom-none
+.container .grid-row
+.grid-half
+.grid-buttons a:last-child
+.columns-row
+.columns-col
+.columns-col-3
+.columns-col-4
+.columns-col-6
+.columns-col-8
+.columns-col-9
+.columns-col-12
+.grid-buttons > *
+.cws-button.smaller
+.cws-button.small
+.cws-button.large
+.cws-button.bt-color-2
+.cws-button.bt-color-3
+.cws-button.bt-color-4
+.cws-button.bt-color-5
+.cws-button.bt-color-6
+.cws-button.white
+.cws-button i
+.cws-button.icon-left i
+.cws-button.icon-right i
+.cws-button.float-right
+.color-palette
+.color-palette:first-child
+.color-palette:last-child
+.color-palette span
+.bg-color-1alt
+.bg-color-2alt
+.bg-color-3alt
+.bg-color-4
+.bg-color-4alt
+.bg-color-5
+.bg-color-5alt
+.bg-color-6
+.bg-color-6alt
+.shop header
+.main-page header
+.page-header-top address a
+.header-top-panel .search-open
+.page-header-top address .phone-number i
+.header-top-panel form input
+.header-top-panel form.open input
+.header-top-panel form input[placeholder]
+.header-top-panel form input::-webkit-input-placeholder
+.header-top-panel a.fa-shopping-cart
+#top_social_links_wrapper
+.header-top-panel form
+#top_social_links_wrapper
+.header-top-panel .cws_social_links
+.header-top-panel .share-toggle-button
+.header-top-panel .cws_social_links > *
+.header-top-panel.active_social .cws_social_links > *
+.header-top-panel .cws_social_links > *, .header-top-panel .share-toggle-button
+.header-top-panel.active_social .search-open
+.page-title nav
+.page-title .bread-crumb i
+.page-title .bread-crumb a
+.main-page .sticky-wrapper
+.sticky-menu.double-menu:not(.second-nav), .sticky-menu.alt.mobile
+.sticky-menu .logo h1
+.sticky-menu.scrolling
+.sticky-menu.scrolling .logo
+.sticky-menu.scrolling .logo h1
+.sticky-menu.double-menu:not(.second-nav) .main-nav:not(.mobile_nav) > ul > li
+.sticky-menu.double-menu:not(.second-nav) .logo h1, .sticky-menu.alt.mobile .logo h1
+.sticky-menu.scrolling .main-nav > ul > li
+.megamenu > ul > li img
+.main-nav.switch-menu .menu-bar
+.main-nav.switch-menu.mobile_nav .menu-bar
+.main-nav.switch-menu > ul
+.main-nav.switch-menu .menu-bar .ham
+.items-visible .menu-bar .ham
+.main-nav.switch-menu > ul > li
+.main-nav.switch-menu.mobile_nav > ul > li
+.main-nav.switch-menu.items-visible > ul > li
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+1)
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+2)
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+3)
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+4)
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+5)
+.main-nav.switch-menu.items-visible > ul > li:nth-last-child(n+6)
+.main-nav.switch-menu > ul > li:nth-child(n+1)
+.main-nav.switch-menu > ul > li:nth-child(n+2)
+.main-nav.switch-menu > ul > li:nth-child(n+3)
+.main-nav.switch-menu > ul > li:nth-child(n+4)
+.main-nav.switch-menu > ul > li:nth-child(n+5)
+.main-nav.switch-menu > ul > li:nth-child(n+6)
+.main-nav .mobile_menu_switcher
+.main-nav.mobile_nav .mobile_menu_switcher
+.mobile_nav .button_open
+nav.main-nav.mobile_nav ul
+nav.main-nav.mobile_nav.opened ul
+.mobile_nav > ul, .mobile_nav ul
+.mobile_nav .megamenu
+.mobile_nav img
+.mobile_nav .header-megamenu
+.mobile_nav li
+.mobile_nav li + li
+.mobile_nav li > a, .mobile_nav li > .button_open
+.main-nav ul > .back, .main-nav ul > .header-menu
+.main-nav ul > .header-menu
+.main-nav.mobile_nav ul > .back, .main-nav.mobile_nav ul > .header-menu
+.mobile_nav .header-megamenu
+.footer-latest article img
+.footer-latest .course-date > *
+.footer-latest article
+.footer-latest article:last-child
+.footer-contact-form form
+.footer-contact-form form button[type="submit"].cws-button
+.footer-contact-form input, .footer-contact-form textarea
+.footer-contact-form input::-webkit-input-placeholder, .footer-contact-form textarea::-webkit-input-placeholder
+.project-details .title-details
+.project-details hr
+.project-details ul
+.project-details ul li
+.project-details li span
+.center
+.info-boxes .close-button
+.info-boxes.confirmation-message
+.email_server_responce .info-boxes.confirmation-message p
+.info-boxes.warning-message
+.info-boxes.info-message
+.info-boxes .close-button
+.info-boxes .info-box-icon
+.info-boxes .info-box-icon i
+.info-boxes.confirmation-message .info-box-icon i
+.info-boxes.warning-message .info-box-icon i
+.info-boxes.info-message .info-box-icon i
+.info-boxes.error-message .info-box-icon i
+.info-boxes.alt
+.info-boxes.alt strong
+.info-boxes.alt .info-box-icon
+.info-boxes.alt.confirmation-message, .info-boxes.alt.confirmation-message .info-box-icon
+.info-boxes.alt.error-message, .info-boxes.alt.error-message .info-box-icon
+.info-boxes.alt.warning-message, .info-boxes.alt.warning-message .info-box-icon
+.info-boxes.alt.info-message, .info-boxes.alt.info-message .info-box-icon
+.form-group .input-icon
+.form-group .input-icon input
+.form-group .input-icon i
+input[type="text"][disabled]
+.has-success input
+.has-warning input
+.has-error input
+.accordions + *
+.accordions .content-title
+.accordions .content
+.accordions .content-title.active
+.toggles .content-title.active
+.tp-banner ul
+.tp-banner ul li
+.tp-caption .cws-button
+.tp-dottedoverlay.custom
+.tp-caption .sl-title.alt
+.tp-caption .cws-button i
+.tp-banner-container .tp-leftarrow, .tp-banner-container .tp-rightarrow
+.tp-banner-container .tp-rightarrow
+.tp-banner-container .tp-leftarrow
+.tp-caption.align-center
+.map
+#map
+.infobox-wrapper
+#infobox
+#infobox .bg-half-transperent
+#infobox i
+#infobox ul
+#infobox ul li
+.tp-banner
+.scroll-down
+.scroll-down i
+.picture + .tabs
+hr + .tabs
+.tabs h3
+.tabs-btn.active span
+.tabs .container-tabs:not(.active)
+.tabs .container-tabs > img
+.tabs h6
+.skill-bar
+.skill-bar li
+.skill-bar li:last-child
+.skill-bar .bar
+.skill-bar .bar span
+.skill-bar .name
+.skill-bar .name .skill-bar-perc
+.title-carousel
+.title-carousel h2
+.carousel-container
+.owl-three-item .gallery-item, .owl-four-items .gallery-item, .owl-two-item .gallery-item
+.gallery-item .portfolio-item
+.carousel-button .prev, .carousel-button .next
+.carousel-container h2
+.carousel-nav
+h2 + .carousel-nav + *
+.carousel-nav.align-left
+.owl-controls .owl-buttons .owl-prev, .owl-controls .owl-buttons .owl-next
+.owl-controls .owl-buttons .owl-prev
+.thumbnails .owl-controls .owl-buttons .owl-prev
+.owl-controls .owl-buttons .owl-next
+.video-player
+.video-player iframe
+a.ui-datepicker-prev.ui-corner-all
+a.ui-datepicker-next.ui-corner-all
+a.ui-datepicker-prev.ui-corner-all, a.ui-datepicker-next.ui-corner-all
+a.ui-datepicker-next.ui-corner-all i, a.ui-datepicker-prev.ui-corner-all i
+.ui-datepicker-title
+.ui-datepicker-header
+.ui-datepicker-header .ui-datepicker-month, .ui-datepicker-header .ui-datepicker-year
+.ui-datepicker-calendar thead th, .ui-datepicker-calendar tbody td
+.ui-datepicker-calendar tbody td
+.ui-datepicker-calendar thead th
+.ui-datepicker-calendar tbody
+td.ui-datepicker-today
+.blog-post p a, article p a
+.grid-col-4 .blog-post
+.blog-post .tags-post
+.grid-col-4 .blog-post .tags-post, .blog-post .tags-post:last-child
+.blog-post .tags-post a
+.blog-post .tags-post a + a
+.grid-col-4 .blog-post article > p
+.post-info .date-post
+.post-info .date-post .day
+.post-info .date-post .month
+.post-info .comments-post
+.post-info .author-post
+.blog-post + hr
+hr + .comments
+.post-info-main
+.blog-media + p
+q h3
+.page-pagination
+.page-pagination a
+.page-pagination a:last-child
+.page-pagination a:last-child, .page-pagination a:first-child
+.page-pagination a.active
+aside p
+aside h4
+aside .cws-button
+.margin-bottom
+.margin-top
+.margin-top-max
+.count-of
+.count-of img
+.count-of span
+.count-of label
+.widget-contact-form input[type="text"].error, .widget-contact-form textarea.error
+.widget-contact-form label span
+form.subscribe
+form.subscribe input[name="email"]
+form.subscribe input[type="submit"]
+.widget-search form
+.widget-search hr + form
+.widget-search form input[type="search"]
+.widget-search form .search-submit
+.screen-reader-text
+.widget-lector-info
+.widget-course-details > p
+.widget-course-details .star-rating
+.widget-course-details .count-users
+.widget-course-details .count-users span
+.widget-meta li a span, .widget-archives li a span, .widget-categories li a span
+aside .carousel-button .prev, aside .carousel-button .next, .widget-instructor .carousel-button .prev, .widget-instructor .carousel-button .next
+aside article, .widget-instructor article
+aside h2 + article
+section.widget-instructor article:last-child
+.widget-post img, .widget-instructor img
+.widget-instructor img.avatar-small
+.widget-course img
+.widget-post .course-date, .widget-instructor .course-date, .widget-course .course-date
+.widget-post h4, .widget-instructor h4, .widget-course h4
+.widget-post p, .widget-instructor p, .widget-course p
+.widget-course .course-date
+.widget-event .date
+.widget-event .date .day
+.widget-event .event-description span
+.event-description p
+.widget-comments .header-comments
+.widget-comments .header-comments .date
+.widget-comments .header-comments .author
+.widget-comments .comments
+.widget-comments .comment
+.widget-text strong
+.widget-rss .subscribe-form
+.widget-rss .subscribe-form form
+.widget-rss .subscribe-form form input
+.widget-rss .subscribe-form form .button-send
+.course-item + .course-item
+.widget-popular .course-name .price, .course-item .course-name .price
+.widget-popular .course-date .day, .course-item .course-date .day
+.widget-popular .course-date .time, .course-item .course-date .time
+.widget-popular .course-date i, .course-item .course-date i
+.course-item .divider
+.carousel-container .course-hover a
+.widget-navigation ul
+.widget-navigation h4
+.widget-navigation > ul
+.widget-navigation li, .widget-pages li
+.widget-pages > ul > li li:first-child, .widget-navigation > ul > li li:first-child
+.widget-pages li:last-child, .widget-navigation li:last-child
+.widget-navigation a, .widget-pages a
+.widget-navigation > ul > li > a, .widget-pages > ul > li > a
+.widget-navigation > ul > li > ul > li > a, .widget-pages > ul > li > ul > li > a
+.widget-navigation > ul > li > ul > li > ul > li > a, .widget-pages > ul > li > ul > li > ul > li > a
+.widget-pages > ul
+.widget-navigation > ul > li > ul
+.widget-navigation > ul > li > ul > li
+.widget-navigation > ul > li > ul > li > ul
+.widget-navigation > ul > li > ul > li > ul > li.hover > a
+.widget-navigation > ul > li ul, .widget-pages > ul > li ul
+.widget-pages > ul > li.active > ul
+.twitter
+.twitter li
+.twitter p a
+.twitter li p
+.twitter .fa-twitter
+.twitter ul
+.tweet_time a
+.twitter.alt
+.twitter.alt .fa-twitter
+.twitter.alt li
+.twitter.alt li p
+.twitter.alt li p .tweet_time a
+.twitter.alt p a
+.twitter-1 i.twitt
+.twitter-1 p
+.twitter-1 p a
+.twitter-1 p span.tweet_time a
+.twitter-1 li
+.widget-flickr
+.widget-flickr ul
+#flickr-badge li
+#flickr-badge .flickr-container
+#flickr-badge .flickr-container a
+#flickr-badge .flickr-container span
+#flickr-badge .flickr-container img
+#flickr-badge li:nth-child(3n+3)
+.widget-subscribe a
+.widget-subscribe a:last-child
+.price_slider_wrapper
+.widget-filter h4
+.price_slider_wrapper .price_slider
+.price_slider .ui-slider-range
+.price_slider .ui-slider-handle
+.price_slider .ui-slider-handle .price_label
+.price_slider .ui-slider-handle .price_label sup
+.price_slider_wrapper .price_slider_amount
+.price_slider_wrapper .price_slider_amount .button
+.price_slider_wrapper .price_slider_amount .price_label
+.price_slider_wrapper .price_slider_amount .price_label span
+.price_slider_wrapper .price_slider_amount .clear
+.widget_shopping_cart_content ul
+.widget_shopping_cart_content ul li
+.widget_shopping_cart_content .quantity
+.widget_shopping_cart_content ul li a
+.widget_shopping_cart_content ul li p
+.widget_shopping_cart_content ul li a img
+.widget_shopping_cart_content .total
+.widget_shopping_cart_content .total strong
+.widget_shopping_cart_content .cws-button
+.widget-selers h4
+.widget-selers img
+.widget-selers p
+.widget-selers p:last-child
+.courses-picture
+.course-description
+.course-description .course-date
+.course-description .course-date > div
+.course-description .course-date sup
+.course-description .course-date span
+.course-info
+.course-info > *
+.course-info > :first-child
+.students-count
+.students-count i
+.course-info .price .amount
+.course-info .star-rating
+.course-description .course-title
+.course-description .teacher
+.price
+.price .amount
+.price span sup
+.star-rating
+.star-rating > span
+.shop .star-rating > span
+.category-buttons
+.category-button
+.category-button + .category-button
+.category-button i
+.category-button p
+.banner-offer
+.banner-offer.bg-color-1
+.banner-offer.bg-color-2
+.banner-offer.bg-color-3
+.banner-offer.bg-color-4
+.banner-offer + .banner-offer
+.banner-offer > *
+.banner-offer .banner-icon i
+.banner-offer.bg-color-1 .banner-icon i
+.banner-offer.bg-color-2 .banner-icon i
+.banner-offer.bg-color-3 .banner-icon i
+.banner-offer.bg-color-4 .banner-icon i
+.banner-offer .banner-icon:first-child
+.banner-offer .banner-text
+.banner-offer .banner-text h2
+.banner-offer .banner-text:first-child h2
+.banner-offer .banner-text p
+.banner-offer .banner-text:first-child p
+.banner-offer .banner-text:last-child
+.banner-offer .banner-percent
+.banner-offer .banner-icon:last-child, .banner-offer .banner-percent:last-child
+.banner-offer .banner-percent span
+.category-item h3
+.widget-course-details .category-info
+.widget-course-details .category-info
+.widget-course-details .category-info .avatar
+.category-item .category-info .course-lector, .widget-course-details .category-info .course-lector
+.category-item .category-info .course-lector span, .widget-course-details .category-info .course-lector span
+.category-item .category-info h4, .widget-course-details .category-info h4
+.widget-course-details .category-info .price
+.category-item .category-info .price .amount, .widget-course-details .category-info .price .amount
+.category-item.list .category-info .price .amount
+.category-item .category-info .price .description-price, .widget-course-details .category-info .price .description-price
+.category-item .star-rating, .widget-course-details .star-rating
+.category-item .count-reviews, .widget-course-details .count-reviews
+.widget-course-details .count-reviews
+.category-item.list:last-child
+.category-item.list + .category-item.list
+.category-item.list .picture
+.category-item.list > p
+.category-item.list .category-info
+.category-item.list .category-info > *
+.category-item.list .category-info .price > *
+.category-item.list .category-info .avatar, .widget-course-details .course-lector .avatar
+.category-item.list .category-info .lector-name, .widget-course-details .lector-name
+.category-item.list .category-info .count-users i
+.category-item.list .divider-big
+.category-search
+.category-search > i
+.category-search form
+.category-search form > *
+.category-search form input, .category-search form select
+.category-search .cws-button.smaller
+.category-search .select2
+select.filter.full-width
+.select2 .select2-selection
+.select2 .select2-selection__rendered
+.select2 .select2-selection__arrow
+.select2 .select2-selection__arrow b
+.cat-courses-item
+.cat-courses-item .cat-course-img
+.cat-courses-item .cat-course-img img
+.cat-courses-item.course-item + .cat-courses-item.course-item
+.cat-courses-item > *
+.cat-courses-item .info-block
+.cat-courses-item .info-block .show h2
+.cat-courses-item .info-block .show
+.cat-courses-item .info-block .show iframe
+.cat-courses-item .info-block .show i
+.cat-courses-item .info-block .hidden
+.cat-courses-item .info-block .hidden span
+.post-info + .quotes
+.post-info + .video-player iframe, .post-info + .full-width-slider
+.quote-item
+.quote-item:last-child
+.quotes-carousel h4
+.quotes-carousel .carousel-button .prev, .quotes-carousel .carousel-button .next
+.quotes-carousel .owl-carousel
+.select_category, .select_teacher
+.pricing-table
+.pricing-table .header-pt
+.pricing-table.color-1 .header-pt
+.pricing-table.color-2 .header-pt
+.pricing-table.color-3 .header-pt
+.pricing-table.color-4 .header-pt
+.pricing-table .header-pt h3
+.pricing-table.active .header-pt h3
+.pricing-table.active
+.pricing-table ul
+.pricing-table ul li
+.pricing-table ul li:nth-child(2n+1)
+.pricing-table .price-pt
+.pricing-table .price-pt sup
+.pricing-table .price-pt sup:first-child
+.pricing-table .price-pt sup:last-child
+.pricing-table p
+.comments p
+img.avatar
+.comments .button.reply
+.comments .button.reply i
+ol.commentlist
+.commentlist .comment
+.commentlist .comment:first-child
+.commentlist .comment:last-child
+.comment-title
+.comment-title span
+.comment .meta strong
+.comment .meta time
+.comment_container.second
+.woocommerce .comments .star-rating
+.woocommerce .product .comment-form-author, .woocommerce .product .comment-form-email
+.woocommerce .product .comment-form-email + *
+.woocommerce .product .comment-form
+.woocommerce .product .comment-form > *
+.woocommerce .product .comment-form label
+.woocommerce .product .comment-form input, .woocommerce .product .comment-form textarea
+.woocommerce .product .comment-form textarea
+.ribbon
+.ribbon .banner
+.ribbon .text
+.comments .star-rating
+.woocommerce ul.products.list-view .star-rating, .product_list_widget .star-rating
+.star-rating > span
+.comment-form-rating .stars .stars-active
+.woocommerce div[class^="post-"] .star-rating
+.woocommerce .related.products .star-rating
+.comment-form-rating label
+.woocommerce .comment-form-rating .stars span
+.woocommerce .comment-form-rating .stars .stars-active
+.comment-form-rating .stars
+.woocommerce .comment-form-rating .stars > span
+.comment-form-rating .stars > span a
+.stars-active.fixed-mark
+.leave-reply
+.leave-reply .title
+.message-form
+.message-form-subject, .message-form-author
+.message-form-subject input, .message-form-author input, .message-form-website input, .message-form-message textarea
+.message-form-message, .blog-page .form-submit
+.message-form-message
+.message-form-message textarea
+.message-form .form-submit
+.course-finder h4
+.course_finder select
+.course_finder select, .course_finder textarea
+p.form-row.form-row-wide.select-arrow
+.course_finder p.form-row.form-row-wide
+.service-icon
+.service-icon i
+.testimonials-carousel .owl-pagination
+.testimonials-carousel .owl-pagination .owl-page
+.twitter-1 .testimonials-carousel .owl-pagination .owl-page
+.testimonials-carousel .owl-pagination .owl-page.active
+.twitter-1 .testimonials-carousel .owl-pagination .owl-page.active
+.counter-block
+.counter-block i
+.counter-block .counter
+.counter-block .counter-name
+.line-element
+.line-element > *
+.action-block .text h3
+.action-block .text h3, .action-block .text p
+.action .action-block
+.action .action-block span
+.action .action-block i
+.action .action-block .text
+.action:last-child .action-block span
+.action .action-block i.flaticon-shopping
+.action:last-child .action-block i
+.action:last-child .action-block .text
+.line-element .level-block
+.line-element .level
+.line-element.color-2 .level-block, .color-2 .action .action-block .text
+.color-2 .action .action-block i
+.line-element.color-3 .level-block, .color-3 .action .action-block .text
+.color-3 .action .action-block i
+.item-instructor
+.item-instructor + .item-instructor
+.item-instructor .instructor-avatar
+.item-instructor .info-box
+.item-instructor .info-box h3
+.item-instructor .info-box .instructor-profession
+.item-instructor .info-box p
+.item-instructor .info-box .divider
+.item-instructor .info-box .social-link a
+.item-instructor, .item-instructor .info-box h3, .item-instructor .info-box .instructor-profession, .item-instructor .info-box p, .item-instructor .info-box .social-link a, .item-instructor .info-box .divider
+.boxs-tab
+.boxs-tab > div
+.boxs-tab > div img
+.boxs-tab > div.active
+.tabs-box
+.tabs-box a
+.tabs-box a.active
+.tabs-box a:nth-child(2n).active
+.tabs-box a:nth-child(3n).active
+.tabs-box a:last-child
+.parallaxed.type-2
+.type-2 .parallax-image
+.parallaxed.type-2 .them-mask
+.isotope-header
+.isotope-header h2
+.isotope-header .select-wrapper
+.select2-container .select2-dropdown
+.select2.select2-container--default .select2-selection--single
+.select2-container.select2-container--default .select2-results__option--highlighted[aria-selected]
+.select2-results__option
+.isotope .item
+.portfolio-item h3
+.portfolio-item p:last-child
+.portfolio-item
+.grid-col.portfolio-item
+main > .portfolio-item
+main > .portfolio-item + hr
+.head-sitemap
+.sitemap .grid-col > ul
+.sitemap li, .sitemap li > ul
+.sitemap li ul li
+.container-404
+.container-404 .number
+.container-404 p
+.container-404 p span
+.container-404 .number span
+.container-404 .cws-button
+input[type="checkbox"], input[type="radio"]
+.checkbox, .radio
+.checkbox label, .radio label
+.radio label
+.checkbox input[type="checkbox"]:checked + label, .radio input[type="radio"]:checked + label
+.social-icon
+.social-profile
+.social-profile a
+#page-meta
+#page-meta > *
+#page-meta .woocommerce-ordering
+#page-meta .woocommerce-ordering .orderby
+#page-meta .woocommerce-result-count
+#list-or-grid
+#list-or-grid > div
+#list-or-grid > div.active
+#list-or-grid > div > i
+.products
+.products .product
+.products .product .cws-button, .owl-item .product .cws-button
+.products .product .star-rating
+.products .product .price, .owl-item .product .price
+.products .product .price .amount, .owl-item .product .price .amount
+.product .product-description
+.product .product-name
+.products.list-view .product
+.products.list-view .product .picture
+.products.list-view .product .star-rating
+.products.list-view .product .price
+.products.list-view .product .product-description
+.products.list-view .product .cws-button
+.woocommerce .summary h2
+.woocommerce .summary .star-rating
+.woocommerce .product .images
+.thumbnails
+.thumbnails .owl-carousel
+.thumbnails .owl-carousel .thumbnail
+.thumbnails .owl-carousel .thumbnail img
+.product .divider-color
+.woocommerce .quantity.buttons_added
+.woocommerce .quantity.buttons_added input
+.cart input[type="number"]
+.cart input[type="number"]::-webkit-inner-spin-button, .cart input[type="number"]::-webkit-outer-spin-button
+.product .summary .price .amount
+.main-features .minus
+.main-features .head
+.main-features .features div
+.woocommerce .summary .description, .woocommerce .summary .main-features, .woocommerce .summary .cart
+.woocommerce .summary .product_meta
+.woocommerce .product_meta .tagged_as a
+.woocommerce .title
+.woocommerce .title .title-main
+.woocommerce .title .button-back
+.woocommerce .title .button-back i
+.woocommerce.shop-cart .title div
+.woocommerce.shop-cart .title .main-title
+.woocommerce .title div a
+.woocommerce table
+.woocommerce .shop_table.cart
+.woocommerce table thead
+.woocommerce table thead tr
+.woocommerce table thead th
+.woocommerce table tbody .cart_item
+.woocommerce table tbody .cart_item > *
+.woocommerce table thead .product-thumbnail, .woocommerce table tbody .product-thumbnail
+.woocommerce table tbody .product-thumbnail
+.woocommerce table tbody .product-name
+.woocommerce table tbody .product-thumbnail img
+.woocommerce table tbody .cart_item > *
+.woocommerce td.actions
+.woocommerce td.actions input[name="proceed"]
+.woocommerce .actions .coupon
+.woocommerce .actions .coupon label
+.woocommerce .actions .button
+.woocommerce .actions
+.woocommerce .checkout-button
+.woocommerce #coupon_code
+.woocommerce .coupon .cws-button
+.woocommerce .cart-collaterals > *
+.woocommerce .cart-collaterals .shipping_calculator
+.woocommerce.shop-cart #content > form
+.woocommerce .cart-collaterals
+.woocommerce .cart-collaterals h2
+.woocommerce .cart-collaterals .shipping_calculator h3
+.woocommerce .cart-collaterals .cart_totals h3
+.woocommerce .cart-collaterals .cart_totals tbody
+.woocommerce .cart-collaterals .shipping-calculator-form .form-row:first-child, .cart_totals tr
+.cart_totals tr
+.woocommerce .cart-collaterals .shipping-calculator-form .form-row
+#calc_shipping_country
+.cart_totals table
+.col-2 .cart_totals table
+.cart_totals tr td
+.cart_totals tr > *
+.woocommerce .cart-collaterals input::-webkit-input-placeholder
+.woocommerce .shipping-calculator-form > :first-child select
+.woocommerce .shipping-calculator-form p input
+.woocommerce .shipping-calculator-form p:last-child
+.woocommerce .shipping-calculator-form
+.calendar-header
+.calendar-header .buttons-calendar-view
+.calendar-header .buttons-calendar-view > div
+.calendar-header .buttons-calendar-view > div.active
+.calendar-header .buttons-calendar-view i
+.calendar-header .buttons-carousel
+.calendar-header .buttons-carousel .button-left, .calendar-header .buttons-carousel .button-right
+.calendar-header .buttons-carousel .button-right
+.calendar-header > *
+.event-container-wrap
+.event-container-wrap .event-container
+.event-container-wrap .event-container > *
+.carousel-list i
+.event-container-wrap tbody
+.event-container-wrap tbody tr, .event-container-wrap thead tr
+.event-container-wrap thead tr
+.event-container-wrap thead th
+.event-container-wrap tbody tr td
+.event-container-wrap tbody tr td:last-child
+.event-container-wrap tbody tr td .date
+.event-container-wrap tbody .popup .date
+.event-container-wrap tbody tr td.not-current-month
+.event-container-wrap tbody tr td.not-current-month .date
+.event-container-wrap tbody tr td .event
+.event-container-wrap tbody tr td .event > .title
+.event-container-wrap tbody tr td .event > :first-child
+.event-container-wrap tbody tr td .title
+.event-container-wrap tbody tr td .details
+.event-container-wrap tbody tr td.not-current-month .title, .event-container-wrap tbody tr td.not-current-month .details
+.event-container-wrap tbody tr td .popup
+.event-container-wrap tbody .popup .title, .event-container-wrap tbody .popup .details
+.event-container-wrap tbody tr td .popup
+.event-container-wrap tbody tr td.top-position .popup
+.event-container-wrap tbody tr td .popup p
+.event-container-wrap tbody tr td a
+.event-container > .current
+.event-container > .previous
+.calendar-header .calendar-list, .calendar-header .carousel-list
+.event-container-wrap tbody tr td .day-week
+.event-container-wrap.dashboard tbody tr td
+.week-view-wrap
+.week-view-wrap tr td i, .day-view-wrap tr td i
+.week-view-wrap tr td .time, .day-view-wrap tr td .time
+.day-view-wrap td .time span
+.day-view-wrap tr td:last-child, .day-view-wrap tr th:last-child
+.day-view-wrap thead th:last-child
+.row_bg_video
+.row_bg_video iframe, .row_bg_video video
+.video_bg_mask, .video_bg_mask_img
+.video_bg_mask_img
+.row_bg
+.content-video-bg
+.content-video-bg .tp-caption
+.col2-set h3
+.col2-set .col-2 tbody tr:first-child th, .col2-set .col-2 tbody tr:first-child td
+.woocommerce .select2-container
+.form-row
+.form-row input
+.form-row input:not([type="submit"]):not([type="checkbox"])
+.form-row-first
+.form-row-last
+.form-row-wide
+.wpcf7-list-item-label
+abbr
+.woocommerce-page .terms, .woocommerce-page .cross-sells
+.woocommerce-page .cross-sells > h2
+.col2-set div[class^="col-"]
+.col-1
+.col2-set .col-2
+.woocommerce-billing-fields
+.woocommerce-billing-fields label
+.woocommerce-billing-fields + .create-account
+.create-account
+.create-account .checkbox label
+.create-account .checkbox span
+.create-account input[type="password"]
+.col-2 .cart_totals tr:not(.order-total) td
+.col-2 .cart_totals tr:first-child
+.coupon-enter
+.field-coupon
+.field-coupon input
+#scroll-top
+#scroll-top i
+.fullwidth-background.bg-2
+.fullwidth-background.bg-2 > *
+.login-block
+.login-block .logo
+.login-block .logo img
+.login-block .logo h2
+.half-button
+.half-button + .half-button
+.cws-button.facebook
+.cws-button.twitter
+.clear-both
+.login-or
+.span-or
+.login-block .form-group
+.login-block .form-group + .form-group
+.login-block .form-group input
+.login-block .form-group .input-icon
+.login-block .form-group .input-icon i
+.login-block .small
+.login-block .small a
+.login-block .form-group + .button-fullwidth
+.login-block .button-fullwidth
+.login-block .button-fullwidth + .button-fullwidth
+.rev_slider_wrapper
+.rev_slider
+.tp-overflow-hidden
+.tp-simpleresponsive img, .rev_slider img
+.rev_slider .no-slides-text
+.tp-revslider-slidesli, .tp-revslider-mainul
+.rev_slider li.tp-revslider-slidesli
+.rev_slider .tp-caption, .rev_slider .caption
+.rev_slider .tp-mask-wrap .tp-caption, .rev_slider .tp-mask-wrap :last-child, .wpb_text_column .rev_slider .tp-mask-wrap .tp-caption, .wpb_text_column .rev_slider .tp-mask-wrap :last-child
+.tp-carousel-wrapper
+.tp-carousel-wrapper.dragged
+.tp_inner_padding
+.tp-forcenotvisible, .tp-hide-revslider, .tp-caption.tp-hidden-caption
+.rev_slider embed, .rev_slider iframe, .rev_slider object, .rev_slider video
+.rev_slider_wrapper
+.fullscreen-container
+.fullwidthbanner-container
+.fullwidthbanner-container .fullwidthabanner
+.tp-static-layers
+.tp-caption .frontcorner
+.tp-caption .backcorner
+.tp-caption .frontcornertop
+.tp-caption .backcornertop
+.tp-layer-inner-rotation
+img.tp-slider-alternative-image
+.noFilterClass
+.rs-background-video-layer
+.tp-caption.coverscreenvideo
+.caption.fullscreenvideo, .tp-caption.fullscreenvideo
+.caption.fullscreenvideo iframe, .caption.fullscreenvideo video, .tp-caption.fullscreenvideo iframe, .tp-caption.fullscreenvideo iframe video
+.fullcoveredvideo video, .fullscreenvideo video
+.fullcoveredvideo .tp-poster
+.videoisplaying .html5vid .tp-poster
+.tp-video-play-button
+.tp-caption .html5vid
+.tp-video-play-button i
+.tp-caption .tp-revstop
+.videoisplaying .revicon-right-dir
+.videoisplaying .tp-revstop
+.videoisplaying .tp-video-play-button
+.fullcoveredvideo .tp-video-play-button
+.fullscreenvideo .fullscreenvideo video
+.fullscreenvideo .fullcoveredvideo video
+.tp-video-controls
+.tp-video-button
+.tp-video-button-wrap, .tp-video-seek-bar-wrap, .tp-video-vol-bar-wrap
+.tp-video-seek-bar-wrap
+.tp-video-vol-bar-wrap
+.tp-volume-bar, .tp-seek-bar
+.rs-fullvideo-cover
+.tp-dottedoverlay
+.tp-dottedoverlay.twoxtwo
+.tp-dottedoverlay.twoxtwowhite
+.tp-dottedoverlay.threexthree
+.tp-dottedoverlay.threexthreewhite
+.tp-shadowcover
+.tp-shadow1
+.tp-shadow5
+.tp-button
+.tp-button.big
+.rev-btn, .rev-btn:visited
+.rev-btn.rev-uppercase, .rev-btn.rev-uppercase:visited
+.rev-btn.rev-withicon i
+.rev-btn.rev-hiddenicon i
+.rev-btn.rev-medium, .rev-btn.rev-medium:visited
+.rev-btn.rev-medium.rev-withicon i
+.rev-btn.rev-medium.rev-hiddenicon i
+.rev-btn.rev-small, .rev-btn.rev-small:visited
+.rev-btn.rev-small.rev-withicon i
+.rev-btn.rev-small.rev-hiddenicon i
+.rev-maxround
+.rev-minround
+.rev-burger
+.rev-burger span
+.rev-burger span:nth-child(2)
+.rev-burger.revb-white
+.rev-burger.revb-white span
+.rev-burger.revb-whitenoborder
+.rev-burger.revb-whitenoborder span
+.rev-burger.revb-darknoborder
+.rev-burger.revb-darknoborder span
+.rev-burger.revb-whitefull
+.rev-burger.revb-whitefull span
+.rev-burger.revb-darkfull
+.rev-burger.revb-darkfull span
+.rev-scroll-btn
+.rev-scroll-btn > *
+.rev-scroll-btn.revs-fullwhite
+.rev-scroll-btn.revs-fullwhite span
+.rev-scroll-btn.revs-fulldark
+.rev-scroll-btn.revs-fulldark span
+.rev-scroll-btn span
+.rev-scroll-btn.revs-dark
+.rev-scroll-btn.revs-dark span
+.rev-control-btn
+.rev-cbutton-dark-sr
+.rev-cbutton-light
+.rev-cbutton-light-sr
+.rev-sbutton
+.rev-sbutton-blue
+.rev-sbutton-lightblue
+.rev-sbutton-red
+.tp-bannertimer
+.tp-bannertimer.tp-bottom
+.tp-simpleresponsive img
+.tp-caption img
+.caption.slidelink a div, .tp-caption.slidelink a div
+.tp-caption.slidelink a span
+.tp-shape
+.tp-caption .rs-starring
+.tp-caption .rs-starring .star-rating
+.tp-caption .rs-starring .star-rating
+.tp-caption .rs-starring .star-rating, .tp-caption .rs-starring-page .star-rating
+.tp-caption .rs-starring star-rating span, .tp-caption .rs-starring .star-rating span
+.tp-caption .rs-starring .star-rating
+.tp-caption .rs-starring .star-rating, .tp-caption .rs-starring-page .star-rating
+.tp-loader
+.tp-loader.spinner0
+.tp-loader.spinner1
+.tp-loader.spinner5
+.tp-loader.spinner2
+.tp-loader.spinner3
+.tp-loader.spinner3 .bounce1, .tp-loader.spinner3 .bounce2, .tp-loader.spinner3 .bounce3
+.tp-loader.spinner3 .bounce1
+.tp-loader.spinner3 .bounce2
+.tp-loader.spinner4
+.tp-loader.spinner4 .dot1, .tp-loader.spinner4 .dot2
+.tp-loader.spinner4 .dot2
+.tp-thumbs.navbar, .tp-bullets.navbar, .tp-tabs.navbar
+.tp-tabs, .tp-thumbs, .tp-bullets
+.tp-tab, .tp-thumb
+.tp-arr-imgholder, .tp-videoposter, .tp-thumb-image, .tp-tab-image
+.tp-tab-mask, .tp-thumb-mask
+.tp-tabs, .tp-thumbs
+.tp-bullet
+.tp-bannertimer
+.tparrows
+.dddwrappershadow
+.hglayerinfo
+.hginfo
+.helpgrid
+.animated
+.animated.infinite
+.animated.hinge
+.bounce
+.flash
+.pulse
+.rubberBand
+.shake
+.swing
+.tada
+.wobble
+.bounceIn
+.bounceInDown
+.bounceInLeft
+.bounceInRight
+.bounceInUp
+.bounceOut
+.bounceOutDown
+.bounceOutLeft
+.bounceOutRight
+.bounceOutUp
+.fadeIn
+.fadeInDown
+.fadeInDownBig
+.fadeInLeft
+.fadeInLeftBig
+.fadeInRight
+.fadeInRightBig
+.fadeInUpBig
+.fadeOut
+.fadeOutDown
+.fadeOutDownBig
+.fadeOutLeft
+.fadeOutLeftBig
+.fadeOutRight
+.fadeOutRightBig
+.fadeOutUp
+.fadeOutUpBig
+.animated.flip
+.flipInX
+.flipInY
+.flipOutX
+.flipOutY
+.lightSpeedIn
+.lightSpeedOut
+.rotateIn
+.rotateInDownLeft
+.rotateInDownRight
+.rotateInUpLeft
+.rotateInUpRight
+.rotateOut
+.rotateOutDownLeft
+.rotateOutDownRight
+.rotateOutUpLeft
+.rotateOutUpRight
+.hinge
+.rollIn
+.rollOut
+.zoomIn
+.zoomInDown
+.zoomInLeft
+.zoomInRight
+.zoomInUp
+.zoomOut
+.zoomOutDown
+.zoomOutLeft
+.zoomOutRight
+.zoomOutUp
+.slideInDown
+.slideInLeft
+.slideInRight
+.slideInUp
+.slideOutDown
+.slideOutLeft
+.slideOutRight
+.slideOutUp

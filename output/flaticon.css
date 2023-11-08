@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("http://silverstormwater.000webhostapp.com/fi/flaticon.eot");
+	src: url("http://silverstormwater.000webhostapp.com/fi/flaticon.eot#iefix") format("embedded-opentype"),
+	url("http://silverstormwater.000webhostapp.com/fi/flaticon.woff") format("woff"),
+	url("http://silverstormwater.000webhostapp.com/fi/flaticon.ttf") format("truetype"),
+	url("http://silverstormwater.000webhostapp.com/fi/flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"] {
+	display: inline-block;
+	line-height: 0.9;
+}
+[class^="flaticon-"]:before, [class^="flaticon-"]:after {   
+	font-family: Flaticon;
+    font-size: 1em;
+    line-height: 1;
+	font-style: normal;
+}
+.flaticon-book1:before {
+	content: "\e002";
+}
+.flaticon-college:before {
+	content: "\e007";
+}
+.flaticon-speech:before {
+	content: "\e018";
+}
